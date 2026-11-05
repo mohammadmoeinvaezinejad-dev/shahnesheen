@@ -11,6 +11,7 @@
     "@capacitor/core": "6.2.1"
   },
   "devDependencies": {
-    "@capacitor/cli": "6.2.1"
+    "@capacitor/cli": "6.2.1",
+    "@capacitor/assets": "^4.0.0"
   }
 }
